@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics">
+  <Asset Type="graphics:FontDescription">
+    <FontName>Open Sans Condensed SemiBold</FontName>
+    <Size>24</Size>
+    <Spacing>0</Spacing>
+    <UseKerning>true</UseKerning>
+    <Style>Regular</Style>
+    <CharacterRegions>
+      <CharacterRegion>
+        <Start>&#32;</Start>
+        <End>&#126;</End>
+      </CharacterRegion>
+      <CharacterRegion>
+        <Start>&#1040;</Start>
+        <End>&#1103;</End>
+      </CharacterRegion>
+      <CharacterRegion>
+        <Start>&#1025;</Start>
+        <End>&#1105;</End>
+      </CharacterRegion>
+    </CharacterRegions>
+  </Asset>
+</XnaContent>
